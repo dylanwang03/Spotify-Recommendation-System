@@ -2,8 +2,8 @@
 
 In this project, I dealt with two main types. 
 
-> *Content-based methods* gives recommendations based on the similarity of two song contents or attributes  
-> *collaborative methods* make a prediction on posible preferences using a matrix with ratings on different songs.
+- Content-based methods* gives recommendations based on the similarity of two song contents or attributes  
+- collaborative methods* make a prediction on posible preferences using a matrix with ratings on different songs.
 
 **Content-based methods**
 
